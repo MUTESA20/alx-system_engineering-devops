@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# installs nginx and configure it to listen on port 8080
+# installs nginx and configure it to listen on port 80
 # print "Hello World"
 
 sudo apt-get -y update
